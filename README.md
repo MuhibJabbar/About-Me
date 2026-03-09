@@ -7,6 +7,7 @@
 
 <h2> Skills </h2>
 <h4>
+  
 - Power BI
   
 - SQL Server

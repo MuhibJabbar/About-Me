@@ -32,6 +32,8 @@
   - [SQL Server Business Sales Analysis](https://github.com/MuhibJabbar/Retail-Sales-Sql-Analysis) 
 - <b>Establish a modern data warehouse that centralises sales data, enabling advanced analytics and informed business decisions.</b>
   - [Data Warehouse](https://github.com/MuhibJabbar/Data-Warehouse-Project)
+- <b>This project presents an end-to-end Supply Chain & Logistics Analytics Dashboard built using Power BI.</b>
+  - [Supply Chain](https://github.com/MuhibJabbar/PowerBi-Supply-Chain-and-Logistics-Dashboard)
 
 <h2> 🤳 Connect with me:</h2>
 
